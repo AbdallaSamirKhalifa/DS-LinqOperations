@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTables", "HashTables.csproj", "{7D3B0A69-9275-43E0-BA8D-2E4633A38C92}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionatries", "..\Dictionatries\Dictionatries.csproj", "{B48891C1-3F33-402D-BD0B-007C6D8AA569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryGetValueMethod", "..\TryGetValueMethod\TryGetValueMethod.csproj", "{A37984AD-8D52-4BF6-A845-68EA80E9A4A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithDictionaries", "..\LinqWithDictionaries\LinqWithDictionaries.csproj", "{92C0F87F-14BD-41D7-BDE3-ADA2E6910517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedLinq", "..\AdvancedLinq\AdvancedLinq.csproj", "{02245291-7269-4EF9-959B-3595026CBBAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{B48891C1-3F33-402D-BD0B-007C6D8AA569}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B48891C1-3F33-402D-BD0B-007C6D8AA569}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B48891C1-3F33-402D-BD0B-007C6D8AA569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37984AD-8D52-4BF6-A845-68EA80E9A4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37984AD-8D52-4BF6-A845-68EA80E9A4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37984AD-8D52-4BF6-A845-68EA80E9A4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37984AD-8D52-4BF6-A845-68EA80E9A4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C0F87F-14BD-41D7-BDE3-ADA2E6910517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C0F87F-14BD-41D7-BDE3-ADA2E6910517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C0F87F-14BD-41D7-BDE3-ADA2E6910517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C0F87F-14BD-41D7-BDE3-ADA2E6910517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02245291-7269-4EF9-959B-3595026CBBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02245291-7269-4EF9-959B-3595026CBBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02245291-7269-4EF9-959B-3595026CBBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02245291-7269-4EF9-959B-3595026CBBAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
