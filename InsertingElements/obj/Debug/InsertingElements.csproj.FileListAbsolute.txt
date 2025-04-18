@@ -1,7 +1,0 @@
-D:\Courses\DSLevel2Course22\InsertingElements\bin\Debug\InsertingElements.exe.config
-D:\Courses\DSLevel2Course22\InsertingElements\bin\Debug\InsertingElements.exe
-D:\Courses\DSLevel2Course22\InsertingElements\bin\Debug\InsertingElements.pdb
-D:\Courses\DSLevel2Course22\InsertingElements\obj\Debug\InsertingElements.csproj.AssemblyReference.cache
-D:\Courses\DSLevel2Course22\InsertingElements\obj\Debug\InsertingElements.csproj.CoreCompileInputs.cache
-D:\Courses\DSLevel2Course22\InsertingElements\obj\Debug\InsertingElements.exe
-D:\Courses\DSLevel2Course22\InsertingElements\obj\Debug\InsertingElements.pdb

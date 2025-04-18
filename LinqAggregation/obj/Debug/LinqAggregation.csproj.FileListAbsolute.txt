@@ -1,7 +1,0 @@
-D:\Courses\DSLevel2Course22\LinqAggregation\bin\Debug\LinqAggregation.exe.config
-D:\Courses\DSLevel2Course22\LinqAggregation\bin\Debug\LinqAggregation.exe
-D:\Courses\DSLevel2Course22\LinqAggregation\bin\Debug\LinqAggregation.pdb
-D:\Courses\DSLevel2Course22\LinqAggregation\obj\Debug\LinqAggregation.csproj.AssemblyReference.cache
-D:\Courses\DSLevel2Course22\LinqAggregation\obj\Debug\LinqAggregation.csproj.CoreCompileInputs.cache
-D:\Courses\DSLevel2Course22\LinqAggregation\obj\Debug\LinqAggregation.exe
-D:\Courses\DSLevel2Course22\LinqAggregation\obj\Debug\LinqAggregation.pdb

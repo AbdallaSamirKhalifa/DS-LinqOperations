@@ -1,7 +1,0 @@
-D:\Courses\DSLevel2Course22\RemoveItems\bin\Debug\RemoveItems.exe.config
-D:\Courses\DSLevel2Course22\RemoveItems\bin\Debug\RemoveItems.exe
-D:\Courses\DSLevel2Course22\RemoveItems\bin\Debug\RemoveItems.pdb
-D:\Courses\DSLevel2Course22\RemoveItems\obj\Debug\RemoveItems.csproj.AssemblyReference.cache
-D:\Courses\DSLevel2Course22\RemoveItems\obj\Debug\RemoveItems.csproj.CoreCompileInputs.cache
-D:\Courses\DSLevel2Course22\RemoveItems\obj\Debug\RemoveItems.exe
-D:\Courses\DSLevel2Course22\RemoveItems\obj\Debug\RemoveItems.pdb

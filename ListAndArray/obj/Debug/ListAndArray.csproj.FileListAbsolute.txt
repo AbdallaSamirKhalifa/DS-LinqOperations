@@ -1,7 +1,0 @@
-D:\Courses\DSLevel2Course22\ListAndArray\bin\Debug\ListAndArray.exe.config
-D:\Courses\DSLevel2Course22\ListAndArray\bin\Debug\ListAndArray.exe
-D:\Courses\DSLevel2Course22\ListAndArray\bin\Debug\ListAndArray.pdb
-D:\Courses\DSLevel2Course22\ListAndArray\obj\Debug\ListAndArray.csproj.AssemblyReference.cache
-D:\Courses\DSLevel2Course22\ListAndArray\obj\Debug\ListAndArray.csproj.CoreCompileInputs.cache
-D:\Courses\DSLevel2Course22\ListAndArray\obj\Debug\ListAndArray.exe
-D:\Courses\DSLevel2Course22\ListAndArray\obj\Debug\ListAndArray.pdb

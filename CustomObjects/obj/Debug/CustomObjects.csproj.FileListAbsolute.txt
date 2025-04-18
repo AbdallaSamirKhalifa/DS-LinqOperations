@@ -1,7 +1,0 @@
-D:\Courses\DSLevel2Course22\CustomObjects\bin\Debug\CustomObjects.exe.config
-D:\Courses\DSLevel2Course22\CustomObjects\bin\Debug\CustomObjects.exe
-D:\Courses\DSLevel2Course22\CustomObjects\bin\Debug\CustomObjects.pdb
-D:\Courses\DSLevel2Course22\CustomObjects\obj\Debug\CustomObjects.csproj.AssemblyReference.cache
-D:\Courses\DSLevel2Course22\CustomObjects\obj\Debug\CustomObjects.csproj.CoreCompileInputs.cache
-D:\Courses\DSLevel2Course22\CustomObjects\obj\Debug\CustomObjects.exe
-D:\Courses\DSLevel2Course22\CustomObjects\obj\Debug\CustomObjects.pdb

@@ -1,7 +1,0 @@
-D:\Courses\DSLevel2Course22\BuiltInFunctions\bin\Debug\BuiltInFunctions.exe.config
-D:\Courses\DSLevel2Course22\BuiltInFunctions\bin\Debug\BuiltInFunctions.exe
-D:\Courses\DSLevel2Course22\BuiltInFunctions\bin\Debug\BuiltInFunctions.pdb
-D:\Courses\DSLevel2Course22\BuiltInFunctions\obj\Debug\BuiltInFunctions.csproj.AssemblyReference.cache
-D:\Courses\DSLevel2Course22\BuiltInFunctions\obj\Debug\BuiltInFunctions.csproj.CoreCompileInputs.cache
-D:\Courses\DSLevel2Course22\BuiltInFunctions\obj\Debug\BuiltInFunctions.exe
-D:\Courses\DSLevel2Course22\BuiltInFunctions\obj\Debug\BuiltInFunctions.pdb

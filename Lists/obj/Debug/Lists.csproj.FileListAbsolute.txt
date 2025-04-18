@@ -1,7 +1,0 @@
-D:\Courses\DSLevel2Course22\Lists\bin\Debug\Lists.exe.config
-D:\Courses\DSLevel2Course22\Lists\bin\Debug\Lists.exe
-D:\Courses\DSLevel2Course22\Lists\bin\Debug\Lists.pdb
-D:\Courses\DSLevel2Course22\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
-D:\Courses\DSLevel2Course22\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
-D:\Courses\DSLevel2Course22\Lists\obj\Debug\Lists.exe
-D:\Courses\DSLevel2Course22\Lists\obj\Debug\Lists.pdb
