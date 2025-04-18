@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTables", "HashTables.csproj", "{7D3B0A69-9275-43E0-BA8D-2E4633A38C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionatries", "..\Dictionatries\Dictionatries.csproj", "{B48891C1-3F33-402D-BD0B-007C6D8AA569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D3B0A69-9275-43E0-BA8D-2E4633A38C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3B0A69-9275-43E0-BA8D-2E4633A38C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3B0A69-9275-43E0-BA8D-2E4633A38C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3B0A69-9275-43E0-BA8D-2E4633A38C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48891C1-3F33-402D-BD0B-007C6D8AA569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48891C1-3F33-402D-BD0B-007C6D8AA569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48891C1-3F33-402D-BD0B-007C6D8AA569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48891C1-3F33-402D-BD0B-007C6D8AA569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B85AC060-59F2-4EC7-A4F8-72BB813C537B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\Courses\DSLevel2Course22\LoopingThrow\bin\Debug\LoopingThrow.exe.config
+D:\Courses\DSLevel2Course22\LoopingThrow\bin\Debug\LoopingThrow.exe
+D:\Courses\DSLevel2Course22\LoopingThrow\bin\Debug\LoopingThrow.pdb
+D:\Courses\DSLevel2Course22\LoopingThrow\obj\Debug\LoopingThrow.csproj.AssemblyReference.cache
+D:\Courses\DSLevel2Course22\LoopingThrow\obj\Debug\LoopingThrow.csproj.CoreCompileInputs.cache
+D:\Courses\DSLevel2Course22\LoopingThrow\obj\Debug\LoopingThrow.exe
+D:\Courses\DSLevel2Course22\LoopingThrow\obj\Debug\LoopingThrow.pdb

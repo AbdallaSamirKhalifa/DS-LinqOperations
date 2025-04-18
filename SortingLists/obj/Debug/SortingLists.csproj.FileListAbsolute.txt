@@ -1,0 +1,7 @@
+D:\Courses\DSLevel2Course22\SortingLists\bin\Debug\SortingLists.exe.config
+D:\Courses\DSLevel2Course22\SortingLists\bin\Debug\SortingLists.exe
+D:\Courses\DSLevel2Course22\SortingLists\bin\Debug\SortingLists.pdb
+D:\Courses\DSLevel2Course22\SortingLists\obj\Debug\SortingLists.csproj.AssemblyReference.cache
+D:\Courses\DSLevel2Course22\SortingLists\obj\Debug\SortingLists.csproj.CoreCompileInputs.cache
+D:\Courses\DSLevel2Course22\SortingLists\obj\Debug\SortingLists.exe
+D:\Courses\DSLevel2Course22\SortingLists\obj\Debug\SortingLists.pdb
