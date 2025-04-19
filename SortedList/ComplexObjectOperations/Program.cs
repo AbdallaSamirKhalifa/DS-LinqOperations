@@ -32,7 +32,7 @@ internal class Program
 
 
         var groups = employees.GroupBy(e => e.Value.Department);
-
+       
         Console.WriteLine("\nGrouping employees by department:");
         foreach (var group in groups)
         {
