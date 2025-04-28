@@ -34,7 +34,16 @@ internal class Program
         people.Insert(new Person("Hady"));
 
         people.PrintTree();
+        Console.WriteLine("\nPreOrder Traversal (Current - Left SubTree - Right SubTree):");
+        people.PreOrderTraversal();
+        Console.WriteLine("\nPostOrder Traversal (Left SubTree - Right SubTree - Current):");
+        people.PostOrderTraversal();
+        Console.WriteLine("\nPostOrder Traversal (Left SubTree - Current - Right SubTree):");
+        people.InOrderTraversal();
+
         Console.ReadKey();
+ 
+
     }
 }
 
