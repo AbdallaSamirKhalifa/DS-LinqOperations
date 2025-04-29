@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjacencyMatrix", "AdjacencyMatrix.csproj", "{4F5697B9-4AC1-4A7A-8235-7252A8CBCD1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjacencyList", "..\AdjacencyList\AdjacencyList.csproj", "{781D6480-252E-4373-906A-0F1D418B247E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5697B9-4AC1-4A7A-8235-7252A8CBCD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5697B9-4AC1-4A7A-8235-7252A8CBCD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5697B9-4AC1-4A7A-8235-7252A8CBCD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5697B9-4AC1-4A7A-8235-7252A8CBCD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781D6480-252E-4373-906A-0F1D418B247E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781D6480-252E-4373-906A-0F1D418B247E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781D6480-252E-4373-906A-0F1D418B247E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781D6480-252E-4373-906A-0F1D418B247E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A99D5324-2D72-49B4-99EA-D70ECEFAA0A2}
+	EndGlobalSection
+EndGlobal
